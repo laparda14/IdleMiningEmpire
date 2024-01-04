@@ -19703,7 +19703,7 @@ ig['module']('game.main')['requires']('impact.game', 'plugins.patches.user-agent
                 'investor': 0x0,
                 'lifetimeEarning': 0x0,
                 'startingLifetimeEarning': 0x0,
-                'playerMoney': 0xa,
+                'playerMoney': 0x99999999999,
                 'activeShaft': 0x0,
                 'depositCounter': 0x0,
                 'lastTimeStamp': null,
@@ -19881,7 +19881,7 @@ ig['module']('game.main')['requires']('impact.game', 'plugins.patches.user-agent
                 'font': {
                     'shiftY': 0x5
                 },
-                'waitDelay': 0x1
+                'waitDelay': 0x0
             });
             try {
                 console.log("--fx--poki--stopGameplay--showRewardedAd--");
