@@ -19703,7 +19703,7 @@ ig['module']('game.main')['requires']('impact.game', 'plugins.patches.user-agent
                 'investor': 0x0,
                 'lifetimeEarning': 0x0,
                 'startingLifetimeEarning': 0x0,
-                'playerMoney': 0x99999999999,
+                'playerMoney': 0x9999999999909090909999099909909099090909909,
                 'activeShaft': 0x0,
                 'depositCounter': 0x0,
                 'lastTimeStamp': null,
